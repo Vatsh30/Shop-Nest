@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="2500" viewBox="0 0 390 2500">
+<defs><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3978F6"/><stop offset="1" stop-color="#2056D8"/></linearGradient></defs>
+<rect width="390" height="2500" fill="#FFFFFF"/>
+<!-- HEADER -->
+<g id="Header">
+ <rect width="390" height="78" fill="#FFFFFF"/><circle cx="42" cy="39" r="19" fill="#2563EB"/><path d="M32 32h20l-3 18H35Z" fill="none" stroke="#FFFFFF" stroke-width="2"/><path d="M36 32q0-9 6-9t6 9" fill="none" stroke="#FFFFFF" stroke-width="2"/><text x="70" y="48" font-family="Arial" font-size="25" font-weight="800" fill="#172554">ShopNest</text><path d="M328 29H365M328 39H365M328 49H365" stroke="#172554" stroke-width="3" stroke-linecap="round"/>
+</g>
+<!-- HERO -->
+<g id="Hero">
+ <rect y="78" width="390" height="690" fill="#E8F1FF"/>
+ <text x="24" y="132" font-family="Arial" font-size="11" font-weight="800" letter-spacing="2" fill="#2563EB">YOUR EVERYDAY STORE</text>
+ <text x="24" y="200" font-family="Arial" font-size="42" font-weight="900" fill="#172554">Find what you</text><text x="24" y="249" font-family="Arial" font-size="42" font-weight="900" fill="#2563EB">love. Shop easy.</text>
+ <text x="26" y="291" font-family="Arial" font-size="14" fill="#64748B">Discover everyday essentials, trending</text><text x="26" y="314" font-family="Arial" font-size="14" fill="#64748B">picks, and great deals in one place.</text>
+ <rect x="24" y="340" width="175" height="52" rx="26" fill="url(#blue)"/><text x="111" y="372" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#FFFFFF">Shop Now →</text>
+ <rect x="24" y="425" width="342" height="315" rx="22" fill="#DCE8FF"/><circle cx="195" cy="580" r="112" fill="#C5D8FF"/><path d="M118 510H272L256 680H134Z" fill="#FFFFFF"/><path d="M154 520q0-65 41-65t41 65" fill="none" stroke="#2563EB" stroke-width="10"/><text x="195" y="605" text-anchor="middle" font-family="Arial" font-size="27" font-weight="900" fill="#2563EB">SHOP</text><text x="195" y="632" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" letter-spacing="3" fill="#172554">NEST</text>
+ <rect x="225" y="450" width="125" height="42" rx="9" fill="#FFFFFF"/><text x="287" y="476" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" fill="#2563EB">NEW ARRIVALS</text>
+</g>
+<!-- CATEGORIES -->
+<g id="Categories">
+ <text x="24" y="830" font-family="Arial" font-size="11" font-weight="800" letter-spacing="2" fill="#2563EB">BROWSE BY CATEGORY</text><text x="24" y="872" font-family="Arial" font-size="28" font-weight="900" fill="#172554">Shop your favourites</text>
+ <g font-family="Arial" text-anchor="middle">
+  <circle cx="75" cy="950" r="35" fill="#E8F0FF"/><path d="M57 940h36l-4 28H61Z" fill="#2563EB"/><text x="75" y="1008" font-size="12" font-weight="700" fill="#172554">Fashion</text>
+  <circle cx="165" cy="950" r="35" fill="#EAF7F0"/><rect x="150" y="927" width="30" height="45" rx="5" fill="#269A68"/><text x="165" y="1008" font-size="12" font-weight="700" fill="#172554">Tech</text>
+  <circle cx="255" cy="950" r="35" fill="#FFF1E8"/><path d="M235 940h40l-5 29h-30Z" fill="#F28A4B"/><text x="255" y="1008" font-size="12" font-weight="700" fill="#172554">Home</text>
+  <circle cx="345" cy="950" r="35" fill="#F2ECFF"/><rect x="326" y="931" width="38" height="38" rx="7" fill="#8662D9"/><text x="345" y="1008" font-size="11" font-weight="700" fill="#172554">More</text>
+ </g>
+</g>
+<!-- PRODUCTS -->
+<g id="Products">
+ <rect y="1040" width="390" height="690" fill="#F8FAFC"/><text x="24" y="1100" font-family="Arial" font-size="11" font-weight="800" letter-spacing="2" fill="#2563EB">HANDPICKED FOR YOU</text><text x="24" y="1140" font-family="Arial" font-size="29" font-weight="900" fill="#172554">Trending products</text>
+ <rect x="24" y="1170" width="162" height="245" rx="12" fill="#FFFFFF"/><rect x="36" y="1182" width="138" height="135" rx="8" fill="#EEF4FF"/><path d="M77 1217q0-17 28-17t28 17v76H77Z" fill="#2563EB"/><text x="105" y="1350" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#172554">Everyday Backpack</text><text x="105" y="1384" text-anchor="middle" font-family="Arial" font-size="17" font-weight="900" fill="#2563EB">₹1,299</text>
+ <rect x="204" y="1170" width="162" height="245" rx="12" fill="#FFFFFF"/><rect x="216" y="1182" width="138" height="135" rx="8" fill="#EAF7F0"/><rect x="260" y="1200" width="50" height="100" rx="10" fill="#253A4D"/><rect x="267" y="1210" width="36" height="68" rx="4" fill="#9FD5C0"/><text x="285" y="1350" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#172554">Smart Bottle</text><text x="285" y="1384" text-anchor="middle" font-family="Arial" font-size="17" font-weight="900" fill="#2563EB">₹799</text>
+ <rect x="24" y="1435" width="162" height="245" rx="12" fill="#FFFFFF"/><rect x="36" y="1447" width="138" height="135" rx="8" fill="#FFF1E8"/><path d="M58 1500q0-30 46-30t46 30v50H58Z" fill="#F28A4B"/><text x="105" y="1615" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#172554">Casual Sneakers</text><text x="105" y="1649" text-anchor="middle" font-family="Arial" font-size="17" font-weight="900" fill="#2563EB">₹1,899</text>
+ <rect x="204" y="1435" width="162" height="245" rx="12" fill="#FFFFFF"/><rect x="216" y="1447" width="138" height="135" rx="8" fill="#F2ECFF"/><rect x="257" y="1470" width="58" height="85" rx="9" fill="#8662D9"/><circle cx="286" cy="1512" r="20" fill="#DCCFFF"/><text x="285" y="1615" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#172554">Wireless Speaker</text><text x="285" y="1649" text-anchor="middle" font-family="Arial" font-size="17" font-weight="900" fill="#2563EB">₹2,499</text>
+</g>
+<!-- FEATURE CARDS -->
+<g id="Features">
+ <rect y="1730" width="390" height="555" fill="#FFFFFF"/><text x="24" y="1790" font-family="Arial" font-size="11" font-weight="800" letter-spacing="2" fill="#2563EB">THE SHOPNEST PROMISE</text><text x="24" y="1830" font-family="Arial" font-size="27" font-weight="900" fill="#172554">A better way to shop</text>
+ <rect x="24" y="1860" width="342" height="105" rx="12" fill="#F8FAFC"/><circle cx="65" cy="1912" r="23" fill="#E8F0FF"/><path d="M54 1912h22M65 1901v22" stroke="#2563EB" stroke-width="2.5"/><text x="102" y="1905" font-family="Arial" font-size="16" font-weight="800" fill="#172554">Wide product range</text><text x="102" y="1932" font-family="Arial" font-size="12" fill="#64748B">Discover products for everyday life.</text>
+ <rect x="24" y="1980" width="342" height="105" rx="12" fill="#F8FAFC"/><circle cx="65" cy="2032" r="23" fill="#E8F0FF"/><path d="M54 2032l8 8 15-17" fill="none" stroke="#2563EB" stroke-width="2.5"/><text x="102" y="2025" font-family="Arial" font-size="16" font-weight="800" fill="#172554">Secure checkout</text><text x="102" y="2052" font-family="Arial" font-size="12" fill="#64748B">A simple and safe shopping flow.</text>
+ <rect x="24" y="2100" width="342" height="105" rx="12" fill="#F8FAFC"/><circle cx="65" cy="2152" r="23" fill="#E8F0FF"/><path d="M53 2152h24l-5-6m5 6l-5 6" fill="none" stroke="#2563EB" stroke-width="2.5"/><text x="102" y="2145" font-family="Arial" font-size="16" font-weight="800" fill="#172554">Fast delivery</text><text x="102" y="2172" font-family="Arial" font-size="12" fill="#64748B">Get your orders delivered with care.</text>
+</g>
+<!-- FOOTER -->
+<g id="Footer">
+ <rect y="2285" width="390" height="215" fill="#172554"/><text x="24" y="2335" font-family="Arial" font-size="26" font-weight="800" fill="#FFFFFF">ShopNest</text><text x="24" y="2365" font-family="Arial" font-size="13" fill="#CBD5E1">Shopping made simple.</text><text x="24" y="2405" font-family="Arial" font-size="13" font-weight="700" fill="#FFFFFF">Quick Links</text><text x="24" y="2430" font-family="Arial" font-size="12" fill="#CBD5E1">Home  •  Shop  •  Categories  •  About</text><path d="M24 2450H366" stroke="#334155"/><text x="24" y="2480" font-family="Arial" font-size="10" fill="#94A3B8">© 2026 ShopNest. All rights reserved.</text>
+</g>
+</svg>
